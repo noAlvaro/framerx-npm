@@ -1,10 +1,10 @@
 {
   "name": "npm-framerx",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "(currently) figuring out npm dependencies in Framer X",
   "main": "index.js",
   "scripts": {
-    "test": "helloWorld"
+    "test": "helloWorld1"
   },
   "repository": {
     "type": "git",
