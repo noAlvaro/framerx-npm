@@ -1,0 +1,22 @@
+{
+  "name": "npm-framerx",
+  "version": "1.0.0",
+  "description": "(currently) figuring out npm dependencies in Framer X",
+  "main": "index.js",
+  "scripts": {
+    "test": "helloWorld"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-framerx"
+  },
+  "keywords": [
+    "npm",
+    "framer",
+    "framer",
+    "X",
+    "dependency"
+  ],
+  "author": "noAlvaro",
+  "license": "ISC"
+}
